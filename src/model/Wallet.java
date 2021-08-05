@@ -10,7 +10,7 @@ public class Wallet {
 
     public Wallet() {
         super();
-        saldo = 1000000;
+        saldo = 0;
         tieneLimite = true;
         meta = 0;
     }
